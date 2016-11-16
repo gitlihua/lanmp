@@ -2,6 +2,7 @@
 ## written by aming.
 ## 2015-06-24.
 ####1111111111#####
+####2222222222#####
 #######Begin########
 echo "It will install lamp or lnmp."
 sleep 1

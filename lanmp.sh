@@ -3,6 +3,8 @@
 ## 2015-06-24.
 ####1111111111#####
 ####2222222222#####
+####22ccccccccc2#####
+####nnnnnnnnnnnnn#####
 #######Begin########
 echo "It will install lamp or lnmp."
 sleep 1
